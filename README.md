@@ -1,5 +1,5 @@
 # Basic WEB
-## HTML, CSS and Javascript WEB Components
+### HTML, CSS and Javascript WEB Components
 
 ### Components url:
 
